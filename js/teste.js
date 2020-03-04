@@ -1,7 +1,8 @@
 var obj = {
     "irmao":"vitor",
     "prima":"tathi",
-    "tia": "rosana"
+    "tia": "rosana",
+    "vo": "maria"
 };
 
 var array = [0, "Alexandre", true];
@@ -11,3 +12,4 @@ var funcao = function(){
 }
 
 document.getElementById("teste").innerHTML = "testando GIT"
+
