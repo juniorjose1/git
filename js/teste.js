@@ -4,7 +4,8 @@ var obj = {
     "tia": "rosana",
     "vo": "maria",
     "pai": "Xexeu",
-    "mae": "Marileide"
+    "mae": "Marileide",
+    "tio": "tico"
 };
 
 var array = [0, "Alexandre", true];
