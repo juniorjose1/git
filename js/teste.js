@@ -3,7 +3,8 @@ var obj = {
     "prima":"tathi",
     "tia": "rosana",
     "vo": "maria",
-    "pai": "Xexeu"
+    "pai": "Xexeu",
+    "mae": "Marileide"
 };
 
 var array = [0, "Alexandre", true];
