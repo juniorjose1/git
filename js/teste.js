@@ -5,7 +5,8 @@ var obj = {
     "vo": "maria",
     "pai": "Xexeu",
     "mae": "Marileide",
-    "tio": "tico"
+    "tio": "tico",
+    "bizavo": "alfredo"
 };
 
 var array = [0, "Alexandre", true];
