@@ -8,6 +8,10 @@ var obj = {
     "tio": "tico"
 };
 
+var obj2 = {
+    "jogador1": "cristiano"
+}
+
 var array = [0, "Alexandre", true];
 
 var funcao = function(){
