@@ -10,7 +10,7 @@ var obj = {
 };
 
 var obj2 = {
-    "jogador1": "cristiano ronaldo",
+    "jogador1": "cristiano ronaldo Junior",
     "jogador2": "messi"
 }
 
