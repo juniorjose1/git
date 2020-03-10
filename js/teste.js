@@ -11,7 +11,7 @@ var obj = {
 
 var obj2 = {
     "jogador1": "cristiano ronaldo Junior",
-    "jogador2": "messi"
+    "jogador2": "lionel messi"
 }
 
 var array = [0, "Alexandre", true];
